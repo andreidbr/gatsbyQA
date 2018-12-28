@@ -13,7 +13,7 @@ node_js:
 git:
   depth: 3
 script:
-  - yarn build
+  - yarn build:pp
 deploy:
   provider: pages
   skip-cleanup: true
