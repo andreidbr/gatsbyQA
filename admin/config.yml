@@ -1,7 +1,7 @@
 backend:
   name: github # Refer to https://www.netlifycms.org/docs/authentication-backends/ for auth backend list and instructions
-  branch: master # Branch to update
-  repo: andreidbr/andreidbr.github.io # Repo for pushing new commits. Make sure to replace with your repo!
+  branch: gh-pages # Branch to update
+  repo: andreidbr/gatsbyQA # Repo for pushing new commits. Make sure to replace with your repo!
 
 media_folder: static/assets
 public_folder: assets
